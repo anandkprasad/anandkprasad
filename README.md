@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandkprasad
+- 👋 Hi, I’m Anand Kishor Prasad (@anandkprasad)
 - 👀 I’m interested in web development and creating amazing projects.
 - 🌱 I’m currently learning to create websites, setup servers
 - 📫 How to reach me gameraider4ever@gmail.com
