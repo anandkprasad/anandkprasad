@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Anand Kishor Prasad (@anandkprasad)
+- 👋 Hi, I’m Anand Kishor Prasad
 - 👀 I’m interested in web development and creating amazing projects.
-- 📫 You can reach me at anandkprasad2007@gmail.com
 
 <!---
 anandkprasad/anandkprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
