@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Anand Kishor Prasad
-- 👀 I’m interested in web development and creating amazing projects.
+Hello there, fellow developers! I'm Anand Kishor Prasad and I'm thrilled to welcome you to my GitHub profile. As a web developer, I specialize in crafting powerful applications using the dynamic trio of Node.js, MongoDB, and Express. With a passion for building scalable and efficient backend systems, I'm dedicated to pushing the boundaries of what's possible in web development. From designing robust APIs to optimizing database performance, I'm committed to delivering top-notch solutions that drive innovation. Dive into my repositories to explore my projects!
 
 <!---
 anandkprasad/anandkprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
